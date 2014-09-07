@@ -16,10 +16,10 @@ Tested with Google Authenticator and Sophos Authenticator. It works fine - just 
 - [ArduinoLib_TOTP](https://github.com/lucadentella/ArduinoLib_TOTP)
 - [CryptoSuite](https://github.com/bakercp/Cryptosuite) - use bakercp version, the original is not compilable. Or just change in all occurences of write function in *.h a *.cpp: 
 
-'''
+```
  -  virtual void write(uint8_t);
  +  virtual size_t write(uint8_t);
-'''
+```
 
 
 ### Content
