@@ -29,6 +29,7 @@ Tested with Google Authenticator and Sophos Authenticator. It works fine - just 
 - /sketch: code for MicroView Authenticator. 
 - /doc: schema (see also [MicroView Clock](https://github.com/pavelsuk/MicroViewClock))
 
+![Yes, it looks cool!](/doc/authenticator.png)
 ![Breadboard](/doc/schema_bb.png) 
 ![Schema](/doc/schema_schem.png) 
 
